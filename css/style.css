@@ -16,3 +16,11 @@
 
   
 /* content */
+
+#informazioni{
+  background-color: lightseagreen;
+  width: 60vw;
+  height: 10vh;
+  padding: 22px;
+  margin: 20px;
+}
